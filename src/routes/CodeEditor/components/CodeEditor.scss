@@ -1,0 +1,77 @@
+#code-editor-text {
+  height: 100%;
+}
+
+.codeMirror {
+	height: 100%;
+	width: 100%;
+  overflow-y: scroll;
+  background-color: #151512;
+}
+
+.playerProgress {
+  font-size: 20px;
+  margin-bottom: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#submit-btn {
+  background-color: dimgray;
+  border-color: transparent;
+  margin-bottom: 10px;
+}
+
+.ReactCodeMirror {
+	border: 2px solid black;
+  text-align: left;
+  height: auto;
+  overflow-y: hidden;
+  margin-bottom: 10px;
+}
+
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 100%;
+	padding: 1em;
+  height: 100%;
+}
+
+#enterCodeText {
+  background-color: rgba(0,0,0,0.2);
+  padding-left: 10px;
+  text-align: left;
+}
+
+.row.row-codeeditor {
+  height: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.cm-invalidchar, .cm-s-default .cm-error {
+    color: #151515 !important;
+}
+
+.CodeMirror-gutter-wrapper {
+  left: -30px !important;
+}
+.CodeMirror-sizer {
+  margin-left: 30px !important;
+  min-width: 7px !important;
+}
+.CodeMirror-gutters{
+  left: 0 !important;
+}
+.CodeMirror-gutter.CodeMirror-linenumbers{
+  width: 29px !important;
+}
+
+.CodeMirror-linenumber.CodeMirror-gutter-elt {
+  width: 21px !important;
+}
+
+// .CodeMirror-vscrollbar {
+//   color: black !important;
+// }

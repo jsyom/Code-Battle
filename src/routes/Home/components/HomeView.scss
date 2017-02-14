@@ -1,0 +1,77 @@
+h2 {
+  text-align: center;
+  color: white
+}
+
+// .container.homeView {
+//   margin-left: auto;
+//   margin-right: auto;
+// }
+
+
+#introaboutcode {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container.container-jumbotron {
+  height: 100%;
+  margin-top: auto;
+  margin-bottom: auto;
+  // padding-top: 15px;
+  // padding-bottom: 15px;
+  // padding-right: 15px;
+  // padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jumbotron {
+  padding: 0px;
+  margin: 0px auto;
+  background: #7986cb;
+  height: 100%;
+  min-height: 94vh;
+  color: black;
+  background-image: url("../../../../public/background.jpg");
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  .row.row-homeview {
+    img {
+      width: 45%;
+      margin: 0 auto;
+      padding: 0 auto;
+    }
+  }
+  p {
+    padding-top: 0px;
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 0px;
+    span {
+      font: bold 24px/45px Helvetica, Sans-Serif;
+      background: rgb(0, 0, 0); /* fallback color */
+      background: rgba(0, 0, 0, 0.2);
+    }
+  }
+}
+
+// .homepageleaderboard {
+//   width: 80%;
+//   margin: 50px auto;
+//   div {
+//     color: white;
+//   }
+// }
+
+.row.matchleader {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 15px;
+  #matchhistoryboard {
+    margin-top: 20px;
+  }
+  #leader {
+    margin-top: 20px;
+  }
+}

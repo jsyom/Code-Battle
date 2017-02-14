@@ -1,0 +1,64 @@
+.navbar.navbar-inverse {
+  margin-bottom: 2px;
+}
+
+.navbar-header {
+  padding-left: 10px;
+}
+.AccountDropdown {
+  padding: 10px;
+  padding-right: 0px;
+  form {
+    button {
+      padding-top: 3px;
+    }
+  }
+}
+
+ul.nav.navbar-nav {
+  a {
+    color: #777;
+    background-color: #222;
+
+  }
+}
+
+.navbar-brand {
+  color: #777;
+}
+
+#quick-play-modal {
+  // height: 475px !important;
+}
+
+// #quick-play {
+//   background-color: rgb(34, 34, 34);
+//   border: 0;
+//   border-color: rgb(34, 34, 34);
+// }
+
+#create-lobby {
+  background-color: dimgray;
+  border-color: transparent;
+  // margin-right: 5px;
+}
+
+#quick-play {
+  background-color: white;
+  border-color: transparent;
+  margin-right: 5px;
+  color: black;
+}
+
+.ninja-modal {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+
+.btn.btn-primary.btn-modal {
+  background-color: dimgray;
+  border-color: transparent;
+}
+

@@ -1,0 +1,52 @@
+#problemsContainer {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    padding: 1em;
+    height: 100%;
+}
+
+p {
+  text-align: left;
+  color: #777;
+}
+
+#problems {
+  background-color: transparent;
+  color: #777;
+}
+
+#problemsRow {
+  background-color: rgba(0,0,0,0.2);;
+  height: 100%;
+  min-height: 700px;
+  // padding-left: 10px;
+  width: 100%;
+}
+
+h4 {
+  padding-top: 10px;
+  color: #777;
+}
+
+#questionsBox {
+  background-color: rgba(0,0,0,0.2);
+  padding-left: 10px;
+  text-align: left;
+  width: 100%;
+  padding-right: 0;
+  height: 100%;
+}
+
+#questionsArray {
+  padding-left: 10px;
+}
+  // background-color: rgba(0,0,0,0.2);
+  // color: #777;
+  // height: 100%;
+  // min-height: 300px;
+  // padding-bottom: 15px;
+  // margin-left: 10px;
+  // padding-left: 10px;
+  // padding-right: 10px;
+  // padding-top: 15px;

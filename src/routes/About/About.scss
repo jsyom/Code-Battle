@@ -1,0 +1,29 @@
+#aboutContainer {
+  height: 100%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0,0,0,.2);
+}
+
+#aboutRow {
+  height: 100%;
+}
+
+.thumbnail {
+  height: 100%;
+  width: 100%;
+  background-color: #303133;
+  overflow-y: hidden;
+}
+
+.caption {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
